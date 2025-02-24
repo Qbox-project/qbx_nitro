@@ -1,0 +1,13 @@
+{
+    "notify": {
+        "already_have_nos": "Masz już NOS!",
+        "not_in_vehicle": "Nie jesteś w pojeździe",
+        "must_be_driver": "Musisz być kierowcą!",
+        "canceled": "Anulowano..",
+        "need_turbo": "Pojazd musi mieć turbo, aby użyć NOS!",
+        "needs_purge": "Opróżnij system, aby kontynuować używanie NOS."
+    },
+    "progress": {
+        "connecting": "Podłączanie NOS.."
+    }
+}
