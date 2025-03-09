@@ -1,0 +1,13 @@
+{
+  "notify": {
+    "already_have_nos": "Zaten Nitron var!",
+    "not_in_vehicle": "Araçta değilsin.",
+    "must_be_driver": "Sürücü olmalısın!",
+    "canceled": "İptal edildi..",
+    "need_turbo": "Nitroyu kullanabilmek için aracın turboya sahip olmalı!",
+    "needs_purge": "Nitroyu kullanmaya devam etmek için sistemi temizle."
+  },
+  "progress": {
+    "connecting": "Nitro bağlanıyor.."
+  }
+}
