@@ -1,0 +1,13 @@
+{
+    "notify": {
+        "already_have_nos": "Ya tienes instalado el NOS.",
+        "not_in_vehicle": "Debes estar dentro del vehículo.",
+        "must_be_driver": "Debes estar en el asiento del conductor.",
+        "canceled": "Se ha cancelado la acción.",
+        "need_turbo" : "Necesitas un turbo instalado.",
+        "needs_purge" : "Necesitas purgar el sistema."
+    },
+    "progress": {
+        "connecting": "Conectando el sistema de NOS..."
+    }
+}
